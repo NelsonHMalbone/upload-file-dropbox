@@ -9,8 +9,12 @@ link: https://www.udemy.com/course/learn-python-by-doing-with-100-projects/learn
 this lesson is taught by Ardit Sulce on udemy, will go over how to use python
 to add files to dropbox.
 
-# How to use 
+### How to use 
 **Coming Soon**
-# Credits
+
+### Libraries
+Dropbox
+
+### Credits
 Course taught by Ardit Sulce.
 
