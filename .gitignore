@@ -2,3 +2,4 @@ venv
 .idea
 tutorial/.env
 tutorial/IMG_3621.JPG
+project/.env
