@@ -37,6 +37,10 @@ setting up the project folder for the project section of course
 section of the course has student build out another api app for dropbox
 but to add more then one file so this will use a for-loop somewhere in the process 
 
+TODOS
+- set up a new app folder on dropbox
+- place new genkey into the env file
+- just work on course section for this part
 
 ### How to use 
 ###### TUTORIAL FOLDER  
