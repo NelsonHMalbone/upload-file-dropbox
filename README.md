@@ -48,6 +48,11 @@ working on the project of setting up the file for this
 i do know there will be a for loop in this section to iterate thur 
 each file.
 
+had a few difficulties come to found out i didnt make a path name and
+while i was debuggin i never commit that problem and just 
+worked thur it. 
+
+
 
 
 ### How to use 
@@ -55,7 +60,7 @@ each file.
 just make sure the img you want is in same folder as code and press the run button and it will
 run and pyhton will send the pic directly to the fold on drop box
 ###### PROJECT FOLDER
-**COMING SOON**
+**place files into the folder(files) and it will process them to the dropbox**
 
 ### Libraries
 Dropbox
