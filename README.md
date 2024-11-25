@@ -42,6 +42,14 @@ TODOS
 - place new genkey into the env file
 - just work on course section for this part
 
+#### 11-25
+working on the project of setting up the file for this 
+
+i do know there will be a for loop in this section to iterate thur 
+each file.
+
+
+
 ### How to use 
 ###### TUTORIAL FOLDER  
 just make sure the img you want is in same folder as code and press the run button and it will
